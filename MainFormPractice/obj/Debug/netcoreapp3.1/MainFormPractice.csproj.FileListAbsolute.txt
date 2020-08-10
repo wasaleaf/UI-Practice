@@ -1,0 +1,16 @@
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.exe
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.deps.json
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.runtimeconfig.json
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.runtimeconfig.dev.json
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.dll
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\bin\Debug\netcoreapp3.1\MainFormPractice.pdb
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.csprojAssemblyReference.cache
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.Form1.resources
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.csproj.GenerateResource.cache
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.AssemblyInfoInputs.cache
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.AssemblyInfo.cs
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.csproj.CoreCompileInputs.cache
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.dll
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.pdb
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.genruntimeconfig.cache
+C:\Users\vicwa\source\repos\MainFormPractice\MainFormPractice\obj\Debug\netcoreapp3.1\MainFormPractice.TankDropForm.resources
